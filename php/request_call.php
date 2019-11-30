@@ -46,7 +46,7 @@ $subject = $_POST['subject'];
 $name = $_POST['name'];
 $phone = $_POST['phone'];
 $from = $name;
-$subject = 'Please Call Me : Titan - Responsive HTML5 Template for Consultants & Professionals';
+$subject = 'Please Call Me : Click Tech Systems';
 
 $body = "From: $name\n Phone: $phone\n Subject:\n $subject";
 
